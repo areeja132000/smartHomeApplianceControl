@@ -3,7 +3,7 @@ package smartHomeApplianceControl;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// This code was used to test my system
 		Light firstLight = new Light();
 		firstLight.displayStatus();
 		firstLight.turnOn();

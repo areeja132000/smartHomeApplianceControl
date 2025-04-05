@@ -11,3 +11,5 @@ Properties of appliances:
 3. Air Conditioner: The air conditioner can be turned off by setting the thermostat to the "off" mode. Other modes include "heat" and "cool".
 
 If a smart home appliance controller is created, it will automatically turn off all appliances added to it on January 1st 1:00 AM local time for a system update. 
+
+Please note this project was created with Eclipse IDE

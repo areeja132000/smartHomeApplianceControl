@@ -4,7 +4,7 @@ This is a smart home appliance control solution. You can create various home app
 
 Properties of appliances:
 
-1. Light: The light can be turned on or off
+1. Light: The light can be turned on or off.
 
 2. Fan: The fan can have 3 speeds. 0 = off, 1 = medium speed, and 2 = maximum speed.
 
